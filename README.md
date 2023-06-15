@@ -1,4 +1,4 @@
-# MammalNet: A Large-scale Video Benchmark for Mammal Recognition and Behavior Understanding
+# MammalNet: A Large-scale Video Benchmark for Mammal Recognition and Behavior Understanding (CVPR 2023)
 
 [Jun Chen](https://junchen14.github.io/), [Ming Hu](https://minghu0830.github.io/), [Darren J. Coker](https://reefecology.kaust.edu.sa/people/details/dr.-darren-coker), [blair Costelloe](https://blaircostelloe.com/), [Michael L. Berumen](https://www.kaust.edu.sa/en/study/faculty/michael-berumen), [Sara Beery](https://beerys.github.io/), [Anna Rohrbach](https://anna-rohrbach.net/) and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). 
 
