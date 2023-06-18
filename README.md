@@ -3,7 +3,7 @@
 [Jun Chen](https://junchen14.github.io/), [Ming Hu](https://minghu0830.github.io/), [Darren J. Coker](https://reefecology.kaust.edu.sa/people/details/dr.-darren-coker), [blair Costelloe](https://blaircostelloe.com/), [Michael L. Berumen](https://www.kaust.edu.sa/en/study/faculty/michael-berumen), [Sara Beery](https://beerys.github.io/), [Anna Rohrbach](https://anna-rohrbach.net/) and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). 
 
 
-<a href='https://mammal-net.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='https://arxiv.org/abs/2304.10592'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=sY71Oag2JMw)
+<a href='https://mammal-net.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='https://arxiv.org/abs/2306.00576'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=sY71Oag2JMw)
 
 [![demo](figures/teaser_figure.png)](https://mammal-net.github.io/)
 
