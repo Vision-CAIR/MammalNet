@@ -20,25 +20,21 @@ standard animal and behavior recognition, compositional low-shot animal and beha
 
 To download the required files, follow these steps:
 
-1. **Full-length Video Files:**
-   ```bash
-   aws s3 cp s3://mammalnet/full_videos/ /local/path
-   ```
 
-2. **Trimmed Video Files:**
+
+1. **Trimmed Video Files:**
    ```bash
    aws s3 cp s3://mammalnet/trimmed_videos/ /local/path
    ```
 
-3. **Annotation Files:**
+2. **Annotation Files:**
    ```bash
    aws s3 cp s3://mammalnet/annotations/ /local/path
    ```
-```
-
-This version uses subheadings for each type of file, code block formatting for the commands, and numbered steps for clear and easy-to-follow instructions.
-
-
+3. **Full-length Video Files:**
+   ```bash
+   aws s3 cp s3://mammalnet/full_videos/ /local/path
+   ```
 
 
 
