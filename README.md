@@ -17,8 +17,23 @@ and includes 12 common high-level mammal behaviors (e.g. hunt, groom). We establ
 standard animal and behavior recognition, compositional low-shot animal and behavior recognition, and behavior detection.
 
 ## Dataset Download
+···
+Download the full-length video files: 
+aws s3 cp s3://mammalnet/full_videos/ /local/path
 
-Data download link will be available soon!
+Download the trimmed video files: 
+aws s3 cp s3://mammalnet/trimmed_videos/ /local/path
+
+Download the annotation files: 
+aws s3 cp s3://mammalnet/annotations/ /local/path
+
+···
+
+
+
+
+
+
 <!-- 
 
 ## Installation
