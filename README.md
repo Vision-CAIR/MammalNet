@@ -24,16 +24,16 @@ To download the required files, follow these steps:
 
 1. **Trimmed Video Files:**
    ```bash
-   aws s3 cp s3://mammalnet/trimmed_videos/ /local/path
+   aws s3 cp --recursive s3://mammalnet/trimmed_videos/ /local/path
    ```
 
 2. **Annotation Files:**
    ```bash
-   aws s3 cp s3://mammalnet/annotations/ /local/path
+   aws s3 cp --recursive s3://mammalnet/annotations/ /local/path
    ```
 3. **Full-length Video Files:**
    ```bash
-   aws s3 cp s3://mammalnet/full_videos/ /local/path
+   aws s3 cp --recursive s3://mammalnet/full_videos/ /local/path
    ```
 
 
