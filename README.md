@@ -29,7 +29,7 @@ To download the required files, follow these steps:
 
 2. **Annotation Files:**
    ```bash
-   wget https://mammalnet.s3.amazonaws.com/annotation.tar.gz
+   wget https://mammalnet.s3.amazonaws.com/annotation.tar
    ```
 3. **Full-length Video Files:**
    ```bash
