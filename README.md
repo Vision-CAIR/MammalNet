@@ -24,7 +24,7 @@ To download the required files, follow these steps:
 
 1. **Trimmed Video Files:**
    ```bash
-   wget https://mammalnet.s3.amazonaws.com/trimmed_video.tar.gz
+   wget https://mammalnet.s3.amazonaws.com/trimmed_videos.tar.gz
    ```
 
 2. **Annotation Files:**
